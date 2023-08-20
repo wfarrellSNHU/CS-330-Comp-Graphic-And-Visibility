@@ -1,1 +1,1 @@
-# CS-330-Comp-Graphic-And-Visibility-
+# CS-330-Comp-Graphic-And-Visibility
